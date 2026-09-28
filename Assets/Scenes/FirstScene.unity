@@ -345,8 +345,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -8.7}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 136, z: -513.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
   target: {fileID: 853803863}
-  offset: {x: 0, y: 5, z: -7}
+  offset: {x: 0, y: 7, z: -100}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1097,7 +1097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9980e9b0732703441b0937442bf67acb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimpleTranslate
-  speed: 5
+  speed: 40
 --- !u!65 &853803860
 BoxCollider:
   m_ObjectHideFlags: 0

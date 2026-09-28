@@ -11,6 +11,5 @@ public class CameraFollow : MonoBehaviour
             return;
 
         transform.position = target.position + offset;
-        
     }
 }
